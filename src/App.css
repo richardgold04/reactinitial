@@ -1,3 +1,17 @@
 .App {
   text-align: center;
 }
+
+.hotel{
+	margin: 20px;
+	border: 2px solid black;
+	padding-bottom: 20px;
+}
+
+.hotels h1{
+	font-size: 18px;
+}
+
+button{
+	margin-bottom: 20px;
+}
